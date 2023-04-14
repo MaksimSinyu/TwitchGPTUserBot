@@ -15,7 +15,7 @@ Contributions are welcome! If you would like to contribute to GrishaBot, please 
 # License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
-![python](https://img.shields.io/badge/python-%3E%3D3.6-blue.svg)
+![Python](https://img.shields.io/badge/python-v3.9-blue)
 [![GitHub](https://img.shields.io/badge/GitHub-%23323330.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaksimSinyu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/hardsuit/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/psychokaro)
